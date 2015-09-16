@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @0
 
 
@@ -35,3 +36,42 @@ MOV LEFT DOWN
 
 @10
 
+=======
+@0
+
+
+@1
+MOV UP, ACC
+SUB RIGHT
+MOV ACC DOWN
+
+@2
+MOV UP, ANY
+
+@3
+
+
+@4
+
+
+@5
+MOV UP DOWN
+
+@6
+
+
+@7
+
+
+@8
+MOV UP, ACC
+MOV ACC, DOWN
+NEG
+MOV ACC RIGHT
+
+@9
+MOV LEFT DOWN
+
+@10
+
+>>>>>>> 25ce7d87f27cb88b6f335fc911f9887c8d41ad39
